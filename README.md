@@ -11,7 +11,7 @@ Hi I am Tristan, a Student at PPTI BCA Scholarship Batch 16. As a student of Com
 ![](https://github-readme-stats.vercel.app/api?username=tris-arn&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tris-arn&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tris-arn&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-# 👨My Portofolio
+# 👨My CV
 https://drive.google.com/file/d/1greYOtkNJD5Q7QHVY7MsQniKVyZq7vCL/view?usp=sharing
 
 
