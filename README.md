@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I am Tristan, As a student of Computer Science at Bina Nusantara University, I am deeply passionate about technology, specifically focusing on software development and UI/UX design. I am eager to enhance my skills in these areas. Through my academic experiences, I have gained a solid grasp of software development, which drives my excitement to delve deeper into this field.
+Hi I am Tristan, a Student at PPTI BCA Scholarship Batch 16. As a student of Computer Science at Bina Nusantara University, I am deeply passionate about technology, specifically focusing on software development and UI/UX design. I am eager to enhance my skills in these areas. Through my academic experiences, I have gained a solid grasp of software development, which drives my excitement to delve deeper into this field.
 
 
 ## 🌐 Socials:
